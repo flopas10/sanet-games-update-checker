@@ -1,12 +1,1 @@
-;aiu;
-
-[Update]
-Name = Ghost of a Tale
-ProductVersion = 7.27
-URL = https://f10.megaup.net/9awI/jcpicker.exe
-Size = 2214952
-ReleaseDate = 17/07/2018
-ServerFileName = jcpicker.exe
-Flags = Critical
-RegistryKey = HKUD\Software\sanet.st\Ghost of a Tale\Version
-Version = 7.27
+.
