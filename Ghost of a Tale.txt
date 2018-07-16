@@ -3,11 +3,11 @@
 [Update]
 Name = Ghost of a Tale
 ProductVersion = 7.27
-URL = https://sanet.st/games/
-URL1 = https://sanet.st/games/
-Size = 2357341958
-MD5 = e1c7b33c221d7d88690b6743728cb39e
-ServerFileName = Ghost of a Tale.exe
+URL = https://f10.megaup.net/9awI/jcpicker.exe
+Size = 2214952
+ReleaseDate = 17/07/2018
+MD5 = 7e485e2d866552d596da2acd12674f42
+ServerFileName = jcpicker.exe
 Flags = Critical
 RegistryKey = HKUD\Software\sanet.st\Ghost of a Tale\Version
 Version = 7.27
